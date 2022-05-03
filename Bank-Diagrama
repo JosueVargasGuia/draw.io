@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T16:38:04.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="-IwXZTSlhJDpU4lBfXuU" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T03:56:19.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="VqhdBaUbfhQwmwKgyuM_" version="17.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1782" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -80,7 +80,7 @@
         <mxCell id="uJNGIaCvELQX7om0Y3hj-2" value="TypeCustomer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="uJNGIaCvELQX7om0Y3hj-0" vertex="1">
           <mxGeometry x="12" y="191" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m5qs3DFh1ZQDPCj2REKB-0" value="summaryForProduct()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="uJNGIaCvELQX7om0Y3hj-0" vertex="1">
+        <mxCell id="m5qs3DFh1ZQDPCj2REKB-0" value="summaryForProduct()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" parent="uJNGIaCvELQX7om0Y3hj-0" vertex="1">
           <mxGeometry x="5" y="250" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m5qs3DFh1ZQDPCj2REKB-1" value="reportBankProductInterval()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="uJNGIaCvELQX7om0Y3hj-0" vertex="1">
@@ -444,7 +444,7 @@
         <mxCell id="eOgLe9cOBLRy-P3zVAmG-97" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;registerCard()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" parent="eOgLe9cOBLRy-P3zVAmG-7" vertex="1">
           <mxGeometry x="1" y="288" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m5qs3DFh1ZQDPCj2REKB-2" value="AssociateAccountCard()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="eOgLe9cOBLRy-P3zVAmG-7" vertex="1">
+        <mxCell id="m5qs3DFh1ZQDPCj2REKB-2" value="AssociateAccountCard()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" parent="eOgLe9cOBLRy-P3zVAmG-7" vertex="1">
           <mxGeometry y="268" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m5qs3DFh1ZQDPCj2REKB-10" value="cardType" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eOgLe9cOBLRy-P3zVAmG-7" vertex="1">
@@ -616,8 +616,8 @@
         <mxCell id="m5qs3DFh1ZQDPCj2REKB-4" value="idCard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="m5qs3DFh1ZQDPCj2REKB-3" vertex="1">
           <mxGeometry x="7.5" y="35" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="m5qs3DFh1ZQDPCj2REKB-5" value="idAccount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="m5qs3DFh1ZQDPCj2REKB-3" vertex="1">
-          <mxGeometry x="7.5" y="54" width="70" height="20" as="geometry" />
+        <mxCell id="m5qs3DFh1ZQDPCj2REKB-5" value="id&lt;span style=&quot;font-weight: 700&quot;&gt;Customer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="m5qs3DFh1ZQDPCj2REKB-3" vertex="1">
+          <mxGeometry x="2.5" y="54" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m5qs3DFh1ZQDPCj2REKB-6" value="idAccountCard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="m5qs3DFh1ZQDPCj2REKB-3" vertex="1">
           <mxGeometry x="7.5" y="20" width="90" height="20" as="geometry" />
