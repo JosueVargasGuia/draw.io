@@ -1,6 +1,8 @@
+ 
 <mxfile host="app.diagrams.net" modified="2022-05-04T22:17:27.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="sv2WZimjbVuoeiRFIhQr" version="17.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1703" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+ 
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -598,7 +600,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+ 
         <mxCell id="knJSnpFU37F0U-Xhg0F3-0" value="AccountTransfers" style="swimlane;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+ 
           <mxGeometry x="620" y="380" width="116" height="100" as="geometry" />
         </mxCell>
         <mxCell id="knJSnpFU37F0U-Xhg0F3-1" value="idAccount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="knJSnpFU37F0U-Xhg0F3-0" vertex="1">
@@ -610,6 +614,7 @@
         <mxCell id="knJSnpFU37F0U-Xhg0F3-3" value="id&lt;span style=&quot;font-weight: 700&quot;&gt;Movement&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="knJSnpFU37F0U-Xhg0F3-0" vertex="1">
           <mxGeometry x="6.5" y="65" width="80" height="20" as="geometry" />
         </mxCell>
+ 
         <mxCell id="m5qs3DFh1ZQDPCj2REKB-3" value="AccountCard" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="785" width="125" height="185" as="geometry" />
         </mxCell>
@@ -669,6 +674,7 @@
         <mxCell id="o48TGn1KQle0CveqbEnJ-4" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; line-height: 18px&quot;&gt;&lt;span style=&quot;&quot;&gt;movementCardDetails&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="m5qs3DFh1ZQDPCj2REKB-16">
           <mxGeometry x="10" y="110" width="130" height="20" as="geometry" />
         </mxCell>
+ 
       </root>
     </mxGraphModel>
   </diagram>
