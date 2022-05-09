@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T01:39:00.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="fCa_PWos05nes9MU70MV" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T00:54:34.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="33FVpPB6VaiOThXrJGtp" version="18.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1888" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -675,10 +675,10 @@
           <mxGeometry x="9" y="40" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-21" value="associatedWalletMessage" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="10" y="180" width="150" height="20" as="geometry" />
+          <mxGeometry x="11" y="200" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-28" value="associateYourWallet()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=12;fontColor=#ffffff;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="-1" y="380" width="130" height="20" as="geometry" />
+          <mxGeometry x="-1" y="400" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-31" value="firstname" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
           <mxGeometry x="9" y="60" width="60" height="20" as="geometry" />
@@ -692,14 +692,11 @@
         <mxCell id="o00032DfeYOLpc9Qcq2P-20" value="registerWallet()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=12;fontColor=#ffffff;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
           <mxGeometry x="-1" y="420" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o00032DfeYOLpc9Qcq2P-18" value="walletTransaction()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=12;fontColor=#ffffff;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="-1" y="400" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-17" value="associatedWallet" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="10" y="198" width="110" height="20" as="geometry" />
+          <mxGeometry x="11" y="218" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-35" value="email_address" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="10" y="160" width="90" height="20" as="geometry" />
+          <mxGeometry x="11" y="180" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-36" value="typeDocument" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
           <mxGeometry x="10" y="100" width="90" height="20" as="geometry" />
@@ -714,16 +711,22 @@
           <mxGeometry x="5" y="330" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-56" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;idCard&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="10" y="218" width="50" height="20" as="geometry" />
+          <mxGeometry x="11" y="238" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-57" value="cardNumber" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="10" y="238" width="80" height="20" as="geometry" />
+          <mxGeometry x="11" y="258" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-58" value="cardType" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="10" y="258" width="60" height="20" as="geometry" />
+          <mxGeometry x="11" y="278" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-59" value="&lt;span style=&quot;text-align: center;&quot;&gt;id&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;BankAccount&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
-          <mxGeometry x="9" y="278" width="100" height="20" as="geometry" />
+          <mxGeometry x="10" y="298" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o00032DfeYOLpc9Qcq2P-18" value="walletTransaction()" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=12;fontColor=#ffffff;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
+          <mxGeometry y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o00032DfeYOLpc9Qcq2P-65" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;phone_number&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-0">
+          <mxGeometry x="9" y="160" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-13" value="CardWallet" style="swimlane;fontSize=12;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="-550" width="130" height="181" as="geometry" />
