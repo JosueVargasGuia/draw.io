@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T04:10:49.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="cGEpF8oUaHQlpYpYwh4v" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T04:11:59.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="vjMMNSr_LnEwx7HEsSnB" version="18.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1682" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -778,7 +778,7 @@
           <mxGeometry x="7" y="166" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-51" value="operationStatus" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
-          <mxGeometry x="3" y="266" width="100" height="20" as="geometry" />
+          <mxGeometry x="6" y="266" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-45" value="idMovementWallet" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="8" y="32" width="110" height="20" as="geometry" />
@@ -787,10 +787,10 @@
           <mxGeometry x="8" y="67" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-61" value="dateModified" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
-          <mxGeometry x="3" y="312" width="80" height="20" as="geometry" />
+          <mxGeometry x="6" y="306" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-62" value="creationDate" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
-          <mxGeometry x="3" y="292" width="80" height="20" as="geometry" />
+          <mxGeometry x="6" y="286" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aEX5-nNJr6RZGD5L0nEv-1" value="idDestinyBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
           <mxGeometry x="8" y="107" width="140" height="20" as="geometry" />
@@ -808,7 +808,7 @@
           <mxGeometry x="7" y="226" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aEX5-nNJr6RZGD5L0nEv-5" value="destinyIdMovementAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
-          <mxGeometry x="9" y="246" width="160" height="20" as="geometry" />
+          <mxGeometry x="7" y="246" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-55" value="" style="endArrow=ERmany;html=1;rounded=0;fontSize=12;fontColor=#000000;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="o00032DfeYOLpc9Qcq2P-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
