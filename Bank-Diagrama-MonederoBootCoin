@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T04:30:40.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="HMEJHwRfL2foaJUUummD" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T16:43:30.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="JbDctDszQx0MnwFSZRl9" version="18.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1682" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -792,28 +792,28 @@
         <mxCell id="o00032DfeYOLpc9Qcq2P-62" value="creationDate" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="7" y="246" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-1" value="idDestinyBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-1" value="idDestinyBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="8" y="107" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-0" value="idOriginBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-0" value="idOriginBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="9" y="87" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-4" value="originIdMovementAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-4" value="originIdMovementAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="8" y="186" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-5" value="destinyIdMovementAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-5" value="destinyIdMovementAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="8" y="206" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-6" value="typeMovement" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-6" value="typeMovement" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="7" y="166" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-7" value="&lt;span style=&quot;&quot;&gt;idCardW&lt;/span&gt;&lt;span&gt;allet&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=0;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-7" value="&lt;span style=&quot;&quot;&gt;idCardW&lt;/span&gt;&lt;span&gt;allet&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontStyle=0;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="8" y="130" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-8" value="idDestinyBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-8" value="idDestinyBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="8" y="107" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aEX5-nNJr6RZGD5L0nEv-9" value="idOriginBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o00032DfeYOLpc9Qcq2P-44">
+        <mxCell id="aEX5-nNJr6RZGD5L0nEv-9" value="idOriginBankAccount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="o00032DfeYOLpc9Qcq2P-44" vertex="1">
           <mxGeometry x="9" y="87" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-55" value="" style="endArrow=ERmany;html=1;rounded=0;fontSize=12;fontColor=#000000;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="o00032DfeYOLpc9Qcq2P-44" edge="1">
@@ -824,6 +824,39 @@
         </mxCell>
         <mxCell id="o00032DfeYOLpc9Qcq2P-12" value="transaction status" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-140" y="-570" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-0" value="PurchaseRequest" style="swimlane;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="692" y="-800" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-1" value="idPurchaseRequest" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="12" y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-4" value="customerOrigin" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="13" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-5" value="typeOfPayment" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="13" y="70" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-6" value="customerDestiny" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="14" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-7" value="amountBitcoin" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="15" y="110" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-8" value="conversionRateAmount" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="15" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-9" value="amountInCurrency" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="15" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-10" value="purchaseStatus" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="16" y="170" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-11" value="creationDate" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="16" y="190" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-fmoZz-o5Gy-ZNGHYF3X-12" value="dateModified" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-fmoZz-o5Gy-ZNGHYF3X-0">
+          <mxGeometry x="20" y="206" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
